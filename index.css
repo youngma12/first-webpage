@@ -1,0 +1,24 @@
+body {
+    background-color: #164B60;
+    color: aliceblue;
+}
+
+p {
+    border: 1px solid white;
+    height: 100px;
+
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.font-20, #unique-paragraph {
+    font-size: 20px;
+}
+
+/* #unique-paragraph {
+    font-size: 20px;
+} * I just learnt how to deal with id./ 
+/*jljkjkjkjkjk*/
